@@ -13,3 +13,6 @@ reports/
 
 # OS files
 .DS_Store
+
+tests/report.html
+tests/assets/
